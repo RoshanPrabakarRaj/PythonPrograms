@@ -1,7 +1,7 @@
 import random
 print("""
         Dice Simulator
- Do you want to roll the dice?
+ Do you want to roll the dice??
  """)
 min = 1
 max = 6
