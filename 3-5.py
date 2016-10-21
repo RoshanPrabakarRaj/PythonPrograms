@@ -1130,4 +1130,3 @@ NameError: name 'debug' is not defined
 83 is a prime number
 89 is a prime number
 97 is a prime number
->>> 
