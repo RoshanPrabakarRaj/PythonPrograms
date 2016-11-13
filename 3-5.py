@@ -4,7 +4,7 @@ Type "copyright", "credits" or "license()" for more information.
 >>> def foo():
 	print("another loop")
 	while a == "loop";
-	//print
+	
 SyntaxError: invalid syntax
 >>> a="loop"
 >>> def foo():
