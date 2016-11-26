@@ -3,4 +3,4 @@ del a[0]
 print (a)
 del a[2:4]
 print (a)
-#prints the desired op
+
