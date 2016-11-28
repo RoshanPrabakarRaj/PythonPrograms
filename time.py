@@ -9,5 +9,5 @@ elif hour < 17:
 elif hour < 20:
     print ('eat')
 else:
-    print ('sleep')
+    print ('sleep time')
 
