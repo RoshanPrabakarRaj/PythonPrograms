@@ -5,8 +5,6 @@ Type "copyright", "credits" or "license()" for more information.
 	print (a),
 	a-=1
 	print ("roshan")
-
-	
 14
 (None,)
 roshan
