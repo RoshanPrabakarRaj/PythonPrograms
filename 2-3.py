@@ -64,8 +64,6 @@ NameError: name 'raw_input' is not defined
 >>> import math
 >>> math.pi
 3.141592653589793
->>> a="sds"!
-SyntaxError: invalid syntax
 >>> roshan = "1+2"
 >>> print (rosgan)
 Traceback (most recent call last):
