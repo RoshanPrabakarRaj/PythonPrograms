@@ -17,8 +17,6 @@ SyntaxError: multiple statements found while compiling a single statement
 	print("another")
 	while a == "loop":
 		foo()
-
-		
 >>> y="234"
 >>> y
 '234'
