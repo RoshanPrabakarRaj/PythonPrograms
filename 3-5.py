@@ -24,9 +24,6 @@ SyntaxError: multiple statements found while compiling a single statement
 SyntaxError: Missing parentheses in call to 'print'
 >>> print(y)
 234
->>> a="roshan 'what' are you doing?"
->>> print (a)
-roshan 'what' are you doing?
 >>> fake = """
 what are you doing?
 doing some python coding..
